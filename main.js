@@ -1,0 +1,1 @@
+ console.log("I am the demo file of the js")
